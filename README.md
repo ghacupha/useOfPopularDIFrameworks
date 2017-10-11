@@ -8,7 +8,7 @@ an in particular through implementation of the JSR330 specification.
 I will try to include a number of so called "Light-weights" like feather, EasyDI, 
 as well as some "heavy-weights", like Spring,Weld and so on and so forth <br>
 
-# This is not a performace
+# This is not a performace Test
 <br>
 In fact speed is not a relevant factor. Only a show case for the curious as to how the 
 guys on the other side of the fence do it.<br>

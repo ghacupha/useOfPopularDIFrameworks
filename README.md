@@ -15,4 +15,4 @@ guys on the other side of the fence do it.<br>
 
 If you have something exotic that implements JSR330, or one that is so cool that it 
 makes JSR330 look bad, you are more than welcome to fork this and send me a pull request
-or just do an email to mailnjeru@gmail.com
+containing the new module or just do an email to mailnjeru@gmail.com
